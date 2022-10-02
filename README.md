@@ -1,20 +1,18 @@
 # 20220802-笔记2022年暑假二
 
-1. 家里也陷入了「百年孤独」。时间被拉长了，拉长的时间被填满了重复。等待。爸、妈妈、嫂嫂、爷爷、奶奶的等待。在等待里，哥哥的孩子渐渐长大。8月15日。
-2. 妈妈给哥哥连夜缝制衣服，在他的衣服的每个口罩里都装了牛肉，甚至还准备了烟和打火机。这才觉了平常的唠叨之外的母亲。「慈母手中线，游子身上衣。」难怪几百年多少人感动。8月15日。
-3. 一个人应该把他的作为严格限制在必要的、自然的范围以内。《中国哲学简史》 对于人而言，思考是自然的，生物性活动也是自然的。8月17日。
-4. 由其定义可知，内卷是以资格考试、绩效考核为特征的科层体制的副产物。说中国社会是内卷社会也不无道理，因为中国社会是科层制社会。8月17日。
-5. 我的笔记总是我读的书的反映，是书中的思想与我旧有的观念碰撞的结果，就像烧着火时添了一把柴，炉子里陡然一旺，溅出几点火星来。8月17日。
-6. 也许，「忘」是我的求生之路。知手机，忘手机。知，然后忘。忘，才会返璞归真。这是解决人与技术的矛盾的最终办法。8月19日。
-7. 所谓「物极必反」「反者道之动」，这是正确的，但我们应当认识到事物的发展与变化是有层次的。事物进化到它的反面和事物退化到它的反面是不同的。8月21日。
-8. 此时，林子里的鸟像一锅乱炖的饺子。它们的声音烧开了。8月21日下午。
-9. 2022年8月22日，家乡的夕阳。被农村的平房掩得看不见，但半边的天都像火烧。
-10. 云欺压着山的沉默，山燃烧着，它的光仍然布施给远方的云的碎片。天很亮。8月22日。
-11. 在婚丧宴席上，才觉得村子里到底是礼制社会。
-12. When we search question on Google, we get answers which give you some principles and tell you that's enough. It's not. In the most cases, principle is nothing. What we need are example and story, which mean true experience. We get nothing from principle until we have experience. August 22, read [To Organize The World's information](https://dkb.io/post/organize-the-world-information) .
-13. 我会随身带一把铁铲，路不平了我就把它铲一铲。白程旺，你改变世界的方式有很多。8月23日。
-14. 你有那么贫瘠吗？每时每刻都要扎根在手机里。这个世界不是设计好的，它是长成的。「这正如地上的路；其实地上本没有路，走的人多了，也便成了路。」8月23日。
-15. 所谓「忘」，是从有意识到无意识的转变。这之间必然要经历一段有意识，或者说刻意为之的阶段。无意识意味着意识关系的改变，是人的改变。
+1. 一个人应该把他的作为严格限制在必要的、自然的范围以内。《中国哲学简史》 对于人而言，思考是自然的，生物性活动也是自然的。8月17日。
+2. 由其定义可知，内卷是以资格考试、绩效考核为特征的科层体制的副产物。说中国社会是内卷社会也不无道理，因为中国社会是科层制社会。8月17日。
+3. 我的笔记总是我读的书的反映，是书中的思想与我旧有的观念碰撞的结果，就像烧着火时添了一把柴，炉子里陡然一旺，溅出几点火星来。8月17日。
+4. 也许，「忘」是我的求生之路。知手机，忘手机。知，然后忘。忘，才会返璞归真。这是解决人与技术的矛盾的最终办法。8月19日。
+5. 所谓「物极必反」「反者道之动」，这是正确的，但我们应当认识到事物的发展与变化是有层次的。事物进化到它的反面和事物退化到它的反面是不同的。8月21日。
+6. 此时，林子里的鸟像一锅乱炖的饺子。它们的声音烧开了。8月21日下午。
+7. 2022年8月22日，家乡的夕阳。被农村的平房掩得看不见，但半边的天都像火烧。
+8.  云欺压着山的沉默，山燃烧着，它的光仍然布施给远方的云的碎片。天很亮。8月22日。
+9.  在婚丧宴席上，才觉得村子里到底是礼制社会。
+10. When we search question on Google, we get answers which give you some principles and tell you that's enough. It's not. In the most cases, principle is nothing. What we need are example and story, which mean true experience. We get nothing from principle until we have experience. August 22, read [To Organize The World's information](https://dkb.io/post/organize-the-world-information) .
+11. 我会随身带一把铁铲，路不平了我就把它铲一铲。白程旺，你改变世界的方式有很多。8月23日。
+12. 你有那么贫瘠吗？每时每刻都要扎根在手机里。这个世界不是设计好的，它是长成的。「这正如地上的路；其实地上本没有路，走的人多了，也便成了路。」8月23日。
+13. 所谓「忘」，是从有意识到无意识的转变。这之间必然要经历一段有意识，或者说刻意为之的阶段。无意识意味着意识关系的改变，是人的改变。
 那么，过程便是：「学」，然后「忘」。如何「学」是儒家的议题。荀子认为从经典中「学」，朱熹认为参悟事物的规律；王阳明认为从心中「学」。这是「学」的两种方法。8月24日。
 16. 由于感情是人的最高部分，尽管它属于人的社会属性，「太上忘情」并非无情，而是情到深处不知有情，是人的性质的终极体现。8月25日。
 17. [The article](https://async.twist.com/context-switching/) said that when you switch an app or web page, your brain paid it for a productive tax. It's true. our brain was designed for focus, not for I/O. Unfortunately, our digital tools tends to interrupt. I think what I can do is always make a pause and ponder what to do. At the same time, I really should make an inbox, in my browser, slack, and some to-do app. The article gives some methods like block my time, log my distraction. All in all, it encourages focus and asyn. August 25.
